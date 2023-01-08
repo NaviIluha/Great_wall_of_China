@@ -1,0 +1,64 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.project{
+    width: 30%;
+    height:25%;
+    margin-left: 30%;
+}
+.boleyu{
+    width: 20%;
+    height: 15%;
+    margin-left: 15%;
+}
+.chto{
+    width: 6%;
+    height: 6%;
+}
+nav a{
+    color: blue;
+}
+p{
+    color:;
+
+}
+.puk{
+    text-align: center;
+    
+}
+.mail{
+    color: brown;
+}
+.nazva{
+    text-align: center;
+}
+.nepuk{
+    margin-left: 300px;
+}
+.telephone{
+    color: orange;
+}
+body{
+    background-color: peachpuff;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    border: 2px dotted #282955;
+    padding: 1%;
+}
+header a{
+    text-decoration: none;
+    color: #282955 ;
+}
+img{
+    width: 50%;
+    height: 20%;
+    margin-left: 25%;
+}
